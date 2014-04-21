@@ -8,7 +8,7 @@ Once this data has been downloaded, the script run_Analysis.R can be used to pro
 If called from the command line run_Analysis.R will write output of the analysis to three files. If the 'UCI HAR Dataset' is not in the current working directory an optional command line argument can be used to specify where to look for the directory. The three output files, which are saved into the current working directory, are:
 * mergedData.csv
 
-	This file merges all the data about measurements, individuals, and activities from both the testing set as well as the training set.
+	This file merges all the data about measurements, individuals, and activities from both the testing and the training set. 
 
 * extractedData.txt
 
