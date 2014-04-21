@@ -6,7 +6,7 @@ This data munging project attempts to clean and process data collected from acce
 Once this data has been downloaded, the script run_Analysis.R can be used to process. run_Analysis.R can be run in two ways; as an Rscript via the command line, or by using source() in an interactive session. 
 
 If called from the command line run_Analysis.R will write output of the analysis to three files. If the 'UCI HAR Dataset' is not in the current working directory an optional command line argument can be used to specify where to look for the directory. The three output files, which are saved into the current working directory, are:
-* mergedData.csv
+* mergedData.txt
 
 	This file merges all the data about measurements, individuals, and activities from both the testing and the training set. 
 
