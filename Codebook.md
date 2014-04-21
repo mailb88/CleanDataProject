@@ -14,4 +14,4 @@ Same as with the merged data but with most of the variables discarded. Only 'Ind
 Tidy Data
 ---------
 
-In this data set each row corresponds to one individual doing one activity. The variables in the dataset are calculated by taking the mean of all the measurements available where the individual is participating in the specific activity. The variable names remain unchanged, but it is important to remember that they now represent the mean of all the times that variable has been measured while the individual was doing that activity.
+In this data set each row corresponds to one individual doing one activity. The variables in the dataset are calculated by taking the mean of all the measurements available where the individual is participating in the specific activity. The variable names remain unchanged, it is important to remember that they now represent the mean of all the times that variable has been measured while the individual was doing that activity.
